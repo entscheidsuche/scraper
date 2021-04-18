@@ -1,2 +1,2 @@
-# scraper
-Scraper mit denen die Urteile auf entscheidsuche.ch gescraped wurden.
+# scraper (alte)
+Scraper mit denen die Urteile 2018 auf entscheidsuche.ch gescraped wurden.
